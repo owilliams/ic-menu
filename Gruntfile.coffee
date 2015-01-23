@@ -14,9 +14,6 @@ module.exports = (grunt) ->
         tasks: ['build']
 
     emberTemplates:
-      options:
-        templateCompilerPath: 'bower_components/ember-template-compiler/index.js'
-        handlebarsPath: 'bower_components/handlebars/handlebars.js'
       lib:
         options:
           templateBasePath: 'lib/templates/'

@@ -5,8 +5,8 @@
     "Ryan Florence <rpflorence@gmail.com>"
   ],
   "dependencies": {
-    "ember": ">= 1.4.0 <= 1.5.1",
-    "ic-styled": "~1.1.6"
+    "ember": "~1.9.1",
+    "ic-styled": "~2.0.0"
   },
   "license": "MIT",
   "ignore": [
@@ -17,6 +17,6 @@
     "tests"
   ],
   "devDependencies": {
-    "ember-template-compiler": "http://builds.emberjs.com/release/ember-template-compiler.js"
+    "ember-template-compiler": "http://builds.emberjs.com.s3.amazonaws.com/beta/daily/20131122/ember-template-compiler.js"
   }
 }

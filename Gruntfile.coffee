@@ -17,6 +17,7 @@ module.exports = (grunt) ->
       lib:
         options:
           templateBasePath: 'lib/templates/'
+          templateNamespace: 'HTMLBars'
         files:
           'lib/templates.js': 'lib/templates/{,*/}*.hbs'
       test:

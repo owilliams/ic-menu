@@ -6,7 +6,7 @@
   ],
   "dependencies": {
     "ember": "=1.10.0",
-    "ic-styled": "git@github.com:salzhrani/ic-styled.git#8c8d428f3ef652077ccd3f402c89550661612ad8"
+    "ic-styled": "salzhrani/ic-styled#8c8d428f3ef652077ccd3f402c89550661612ad8"
   },
   "license": "MIT",
   "ignore": [

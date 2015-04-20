@@ -18,6 +18,8 @@ module.exports = (grunt) ->
         options:
           templateBasePath: 'lib/templates/'
           templateNamespace: 'HTMLBars'
+          templateCompilerPath: 'bower_components/ember/ember-template-compiler.js'
+          handlebarsPath: 'bower_components/handlebars/handlebars.js'
         files:
           'lib/templates.js': 'lib/templates/{,*/}*.hbs'
       test:

@@ -5,7 +5,7 @@
     "Ryan Florence <rpflorence@gmail.com>"
   ],
   "dependencies": {
-    "ember": "=1.10.0",
+    "ember": "=1.11.3",
     "ic-styled": "salzhrani/ic-styled#8c8d428f3ef652077ccd3f402c89550661612ad8"
   },
   "license": "MIT",
@@ -15,5 +15,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "handlebars": "~3.0.2"
+  }
 }

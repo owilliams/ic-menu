@@ -6,7 +6,7 @@
   ],
   "dependencies": {
     "ember": "=1.11.3",
-    "ic-styled": "salzhrani/ic-styled#8c8d428f3ef652077ccd3f402c89550661612ad8"
+    "ic-styled": "owilliams/ic-styled#ember-1.11-compat"
   },
   "license": "MIT",
   "ignore": [

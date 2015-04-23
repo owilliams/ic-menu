@@ -399,7 +399,7 @@
 Ember.TEMPLATES["components/ic-menu-css"] = Ember.HTMLBars.template((function() {
   return {
     isHTMLBars: true,
-    revision: "Ember@1.11.3",
+    revision: "Ember@1.12.0",
     blockParams: 0,
     cachedFragment: null,
     hasRendered: false,
@@ -436,7 +436,7 @@ Ember.TEMPLATES["components/ic-menu-css"] = Ember.HTMLBars.template((function() 
 Ember.TEMPLATES["components/ic-menu-list"] = Ember.HTMLBars.template((function() {
   return {
     isHTMLBars: true,
-    revision: "Ember@1.11.3",
+    revision: "Ember@1.12.0",
     blockParams: 0,
     cachedFragment: null,
     hasRendered: false,
@@ -479,7 +479,7 @@ Ember.TEMPLATES["components/ic-menu-list"] = Ember.HTMLBars.template((function()
 Ember.TEMPLATES["components/ic-menu"] = Ember.HTMLBars.template((function() {
   return {
     isHTMLBars: true,
-    revision: "Ember@1.11.3",
+    revision: "Ember@1.12.0",
     blockParams: 0,
     cachedFragment: null,
     hasRendered: false,

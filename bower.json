@@ -5,8 +5,7 @@
     "Ryan Florence <rpflorence@gmail.com>"
   ],
   "dependencies": {
-    "ember": "components/ember#canary",
-    "ic-styled": "owilliams/ic-styled#ember-1.11-compat"
+    "ember": "components/ember#canary"
   },
   "license": "MIT",
   "ignore": [

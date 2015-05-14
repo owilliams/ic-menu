@@ -399,7 +399,7 @@
 Ember.TEMPLATES["components/ic-menu-css"] = Ember.HTMLBars.template((function() {
   return {
     meta: {
-      "revision": "Ember@1.13.0-beta.1+canary.a0ae04f7",
+      "revision": "Ember@1.13.0-beta.1",
       "loc": {
         "source": null,
         "start": {
@@ -433,7 +433,7 @@ Ember.TEMPLATES["components/ic-menu-css"] = Ember.HTMLBars.template((function() 
 Ember.TEMPLATES["components/ic-menu-list"] = Ember.HTMLBars.template((function() {
   return {
     meta: {
-      "revision": "Ember@1.13.0-beta.1+canary.a0ae04f7",
+      "revision": "Ember@1.13.0-beta.1",
       "loc": {
         "source": null,
         "start": {
@@ -474,7 +474,7 @@ Ember.TEMPLATES["components/ic-menu-list"] = Ember.HTMLBars.template((function()
 Ember.TEMPLATES["components/ic-menu"] = Ember.HTMLBars.template((function() {
   return {
     meta: {
-      "revision": "Ember@1.13.0-beta.1+canary.a0ae04f7",
+      "revision": "Ember@1.13.0-beta.1",
       "loc": {
         "source": null,
         "start": {
